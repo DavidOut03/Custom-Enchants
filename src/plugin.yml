@@ -1,0 +1,10 @@
+name: CustomEnchants
+main: global.customenchants.Core.Main
+version: dev
+api-version: 1.13
+author: Snapje
+description: A new fresh enchantments plugin.
+commands:
+  CustomEnchant:
+    aliases: [ce]
+    description: Custom enchant command.

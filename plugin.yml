@@ -1,0 +1,9 @@
+name: CustomEnchants
+main: global.customenchants.Core.Main
+author: David
+version: 1.8
+description: The custom enchants plugin.
+commands:
+  CustomEnchant:
+    aliases: [ce]
+    description: Custom enchant command.
